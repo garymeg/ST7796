@@ -65,7 +65,7 @@ p2y = [0,0,0,0,0,0,0,0]
 r = [0,0,0]
 pi = math.pi
 image_size = (width,height)
-font = ImageFont.truetype('Poppins-BoldItalic.ttf', 20)
+font = ImageFont.truetype('Assets/Poppins-BoldItalic.ttf', 20)
 
 def drawRotatedText(image, text, position, angle, font, fill=(255,255,255)):
     
